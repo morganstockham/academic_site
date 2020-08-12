@@ -17,20 +17,34 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "80%"
+  name = "Statistics, Data Science, and Machine Learning"
+  description = """
+  Natural Language Processing
+  
+  Social Network Analysis
+  
+  """
   
 [[feature]]
-  icon = "chart-line"
+  icon = "calculator"
   icon_pack = "fas"
   name = "Economics"
-  description = "90%"  
+  description = """
+  Microeconomics
+  
+  Econometrics
+  
+  Crime and Law Economics
+  """
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "anchor"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Water Sports"
+  description = """
+  Water Polo
+  
+  Swimming"""
 
 # Uncomment to use emoji icons.
 # [[feature]]
