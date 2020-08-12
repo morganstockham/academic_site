@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: morganstockham@gmail.com
+  link: mailto:your-email@example.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/morgan-stockham/
@@ -68,4 +68,4 @@ email: "morganstockham@gmail.com"
 # - Visitors
 ---
 
-Morgan Stockham is a PhD Student in Applied Microeconomics at Claremont Graduate University in Claremont, CA. She has spent the last year researching prosecutors and creating actionable insights for a rural count in Virginia and researching the use of natural language processing with textual data from World War II. She is deeply interested in turning her focus on congressional success and elected officials' effects on communties. She intends to graduate with her PhD in December of 2021 or May of 2022.
+I am a PhD Student in Applied Microeconomics at Claremont Graduate University in Claremont, CA. I have spent the last year researching prosecutors and creating actionable insights for a rural count in Virginia and researching the use of natural language processing with textual data from World War II. I am deeply interested in turning my focus on congressional success and elected officials' effects on communties. I intend to graduate with my PhD in December of 2021 or May of 2022.
