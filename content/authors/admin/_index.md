@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Applied Microeconomics
     institution: Claremont Graduate University
-    year: 2021/2022
+    year: 2021
   - course: MA Economics
     institution: Claremont Graduate University
     year: 2019
@@ -68,4 +68,4 @@ email: "morganstockham@gmail.com"
 # - Visitors
 ---
 
-I am a PhD Student in Applied Microeconomics at Claremont Graduate University in Claremont, CA. I have spent the last year researching prosecutors and creating actionable insights for a rural count in Virginia and researching the use of natural language processing with textual data from World War II. I am deeply interested in turning my focus on congressional success and elected officials' effects on communties. I intend to graduate with my PhD in December of 2021 or May of 2022.
+I am a PhD Student in Applied Microeconomics at Claremont Graduate University in Claremont, CA. I have spent the last year researching prosecutors, and I spent the summer as a graduate research assistant at UVA's Biocomplexity Institute doing work that focused on public good. I worked on creating actionable healthcare insights for a rural county in Virginia and researching the use of natural language processing with textual data from World War II. I am deeply interested in turning my focus on congressional success and elected officials' effects on communties. I intend to graduate with my PhD in December of 2021.

@@ -23,6 +23,7 @@ subtitle = ""
   
   Social Network Analysis
   
+  Regression Techniques
   """
   
 [[feature]]
@@ -38,13 +39,16 @@ subtitle = ""
   """
   
 [[feature]]
-  icon = "anchor"
+  icon = "child"
   icon_pack = "fas"
-  name = "Water Sports"
+  name = "Hobbies"
   description = """
-  Water Polo
+  Time-Consuming Recipes
   
-  Swimming"""
+  Reading Khalil Gibran
+  
+  Baking Bread
+  """
 
 # Uncomment to use emoji icons.
 # [[feature]]
