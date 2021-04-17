@@ -43,7 +43,16 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2020-01-01"
   date_end = ""
-  description = """CJL is a lab that focuses on producing research and insights relating to crime and law economics. My research within the lab has been focused on prosecutor pay and research on congressional success."""
+  description = """CJL is a lab that focuses on producing research and insights relating to crime and law economics. My research within the lab has been focused on prosecutor pay and civil cases."""
+  
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "Pitzer College"
+  company_url = "https://www.pitzer.edu/"
+  location = "California"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """I am a teaching assistant for undergraduate microeconomic theory. I tutor students in class content and grade their homework. """
   
 [[experience]]
   title = "Research Assistant"
