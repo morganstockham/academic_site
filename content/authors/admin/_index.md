@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Applied Microeconomics
     institution: Claremont Graduate University
-    year: 2023
+    year: 2022
   - course: MA Economics
     institution: Claremont Graduate University
     year: 2019
@@ -54,9 +54,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "morganstockham@gmail.com"
@@ -68,4 +68,4 @@ email: "morganstockham@gmail.com"
 # - Visitors
 ---
 
-I am a PhD Student in Applied Microeconomics at Claremont Graduate University in Claremont, CA. I have spent the last year researching prosecutors, and I spent the summer as a graduate research assistant at UVA's Biocomplexity Institute doing work that focused on public good. I worked on creating actionable healthcare insights for a rural county in Virginia and researching the use of natural language processing with textual data from World War II. I am deeply interested in turning my focus on congressional success and elected officials' effects on communties. I intend to graduate with my PhD in the spring of 2023.
+I am a PhD Student in Applied Microeconomics at Claremont Graduate University in Claremont, CA. I have spent the last year researching prosecutors, and I spent the last two summers as a graduate research assistant at UVA's Biocomplexity Institute within the Social and Decision Analytics Division doing work that focused on public good. I worked on creating actionable healthcare insights for a rural county in Virginia, researched the use of natural language processing with textual data from World War II, compiled a resource of skills acquired by Army Officers in conjunction with the Army Research Institute, and measured racial equity in park access in Arlington County, Virginia. I am deeply interested in turning my focus on the intersection of divorce and crime. I intend to graduate with my PhD in the spring of 2022.
