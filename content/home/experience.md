@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Virginia"
   date_start = "2020-05-26"
   date_end = "2021-08-01"
-  description = """Data Science for the Public Good program was a program for graduate and undergraduate students at BII. It included training students on ethical data science and completing projects that focused on public good projects. I was a member of the American Solider and Patrick County Projects, which involved WWII textual data and health insights, respectively. My work is now focused on increasing economic mobility in rural counties.
+  description = """Data Science for the Public Good program was a program for graduate and undergraduate students at BII. It included training students on ethical data science and completing projects that focused on public good projects. I was a member of the American Solider, Patrick County, ARI3, and Parks in Arlington County Projects, which involved WWII textual data, health insights, veteran skill data, and racial equity of park access, respectively.
   
   Responsibilities include:
   
@@ -42,13 +42,16 @@ date_format = "Jan 2006"
   * Lead teams in discussion and organize the direction of the projects
   * Complete advanced analysis in NLP and SNA
   * Create interactive shiny dashboards and websites with analysis, maps, and data visualizations
+  
+  Websites:
+  
+  * https://dspg-young-scholars-program.github.io/dspg2020amsoldier/
+  * https://teja.shinyapps.io/patrickdash/
+  * https://dspg-young-scholars-program.github.io/dspg21mc/
+  * https://dspg-young-scholars-program.github.io/dspg21ari/
+ 
   """
   
-  # * https://dspg-young-scholars-program.github.io/dspg2020amsoldier/
-  # * https://teja.shinyapps.io/patrickdash/
-  # * https://dspg-young-scholars-program.github.io/dspg21mc/
-  # * https://dspg-young-scholars-program.github.io/dspg21ari/
- 
 
 [[experience]]
   title = "Graduate Research Assistant"
