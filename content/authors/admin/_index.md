@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cgu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include crime, law, and elected officials' decision making.
+bio: My research interests include crime, law, and policy evaluation.
 
 interests:
 - Econometrics
